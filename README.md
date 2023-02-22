@@ -10,7 +10,6 @@ To use this app, you'll need an API key from OpenWeatherMap. You can obtain a fr
 
 Once you have an API key, replace the "{API_KEY}" placeholder in the script.js file with your actual API key.
 
-## Usage
 
 ```javascript
 function requestApi(city) {
