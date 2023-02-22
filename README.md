@@ -24,6 +24,7 @@ function onSuccess(position) {
 }
 ```
 
+
 ## Technologies used
 
 This app was built using HTML, CSS, and JavaScript, and utilizes the OpenWeatherMap API for weather data.
